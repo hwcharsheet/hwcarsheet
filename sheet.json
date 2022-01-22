@@ -3,6 +3,7 @@
     "css": "haunted_west.css",
     "authors": "Chris Spivey, John Arcadian",
     "roll20userid": "",
-    "preview": "haunted_west.png",
-    "instructions": " "
+    "preview": "hhwcspreview.jpg",
+	"instructions": "A character sheet for the Haunted West Role-playing game.",
+	"legacy": false
 }
